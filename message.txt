@@ -1,1 +1,1 @@
-Change from feature branch
+Resolved: keeping both changes
